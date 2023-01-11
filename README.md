@@ -4,3 +4,5 @@
 ###### :battery: If I'm not active here at github, I'm working IRL, sleeping, or just being lazy.
 
 ###### :earth_asia: You can always reach me, and will reply ASAP. Just check my profile.
+
+##### Join us on discord! (url)[https://discord.gg/WPvumHKC]

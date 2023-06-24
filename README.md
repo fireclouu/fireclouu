@@ -1,5 +1,5 @@
 ### Hello! :deciduous_tree: :deciduous_tree: :deciduous_tree: 
-##### I'm a self-taught developer, which interested in old consoles, and exploring how things actually works.  :octocat:
+##### I'm a self-taught developer. Interested in old consoles, and exploring how things actually works.  :octocat:
 
 ###### :battery: If I'm not active here, I'm working IRL.
 

@@ -1,5 +1,5 @@
 ### Hello 🌳
-##### I'm a self-taught developer. Interested in old consoles, computer archs, exploits, and exploring how things actually works.
+##### I'm interested in retro consoles, various computer architectures, exploits and  vulnerabilities, and exploring how things actually works.
 
 ###### If I'm not active here, I'm working IRL.
 

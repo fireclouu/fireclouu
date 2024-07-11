@@ -1,4 +1,12 @@
-### Hello! 🌳
-##### I'm interested in retro consoles, various computer architectures, exploits and  vulnerabilities, and exploring how things actually works.
+### About Me ☕
+I'm interested in [full-stack software development](#), [system emulation](#), [various CPU architectures](#), [cybersecurity](#), and exploring how things actually works.
 
-###### :earth_asia: You can always reach me, details on my profile, and will reply on my free time.
+---
+
+### Contact 📬
+You can reach me anytime! Please see all my available contacts [above](#).
+
+
+<!-- STATISTICS !-->
+<!-- purposedly hidden by me ;) !-->
+<img width="0" src="https://komarev.com/ghpvc/?username=fireclouu&style=flat&base=0" />

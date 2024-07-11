@@ -1,4 +1,4 @@
-### Hello 🌳
+### Hello! 🌳
 ##### I'm interested in retro consoles, various computer architectures, exploits and  vulnerabilities, and exploring how things actually works.
 
 ###### If I'm not active here, I'm working IRL.

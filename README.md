@@ -4,6 +4,8 @@ I'm interested in full-stack software development(, system emulation, various CP
 ---
 
 ### Contact 📬
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fireclouu)
+
 You can reach me anytime! Please see all my available contacts [above](#).
 
 

@@ -1,5 +1,5 @@
 ### About Me ☕
-I'm interested in [full-stack software development](#), [system emulation](#), [various CPU architectures](#), [cybersecurity](#), and exploring how things actually works.
+I'm interested in full-stack software development(, system emulation, various CPU architectures, cybersecurity, and exploring how things actually works.
 
 ---
 

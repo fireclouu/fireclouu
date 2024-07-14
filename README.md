@@ -61,5 +61,5 @@ You can reach me anytime! Please see all my available contacts [above](#).
 
 
 <!-- STATISTICS !-->
-<!-- purposedly hidden by me ;) !-->
+<!-- purposedly hidden !-->
 <img width="0" src="https://komarev.com/ghpvc/?username=fireclouu&style=flat&base=0" />

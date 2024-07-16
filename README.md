@@ -1,4 +1,4 @@
-<img width="180px" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" />
+<a href="#"><img width="180px" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9037a869-528d-44e2-acaa-288c260ec742" /></a>
 
 ### Hi! I'm fireclouu 👋
 
@@ -66,9 +66,10 @@ Interested in **full-stack software development**, **system emulation**, **vario
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
 
-<img alt="separator" height="1px" width="100%" src="https://wallpapers.com/images/hd/violet-pink-gradient-color-palette-dfw9va4jo1i2m507.jpg" />
+<a href="#"><img alt="separator" height="1px" width="100%" src="https://wallpapers.com/images/hd/violet-pink-gradient-color-palette-dfw9va4jo1i2m507.jpg" /></a>
 
 **Other Stats**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/fireclouu)
+
 <a href="#"><img src="https://komarev.com/ghpvc/?username=fireclouu&style=for-the-badge&base=0" /></a>

@@ -8,7 +8,7 @@
 
 Interested in **full-stack software development**, **system emulation**, **various CPU architectures**, **cybersecurity**, and exploring how things actually works.
 
-<img alt="separator" height="1px" width="100%" src="https://wallpapers.com/images/hd/violet-pink-gradient-color-palette-dfw9va4jo1i2m507.jpg" />
+<a href="#"><img alt="separator" height="1px" width="100%" src="https://wallpapers.com/images/hd/violet-pink-gradient-color-palette-dfw9va4jo1i2m507.jpg" /></a>
 
 **Primary**
 
@@ -71,4 +71,4 @@ Interested in **full-stack software development**, **system emulation**, **vario
 **Other Stats**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/fireclouu)
-<img src="https://komarev.com/ghpvc/?username=fireclouu&style=for-the-badge&base=0" />
+<a href="#"><img src="https://komarev.com/ghpvc/?username=fireclouu&style=for-the-badge&base=0" /></a>

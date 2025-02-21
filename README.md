@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fireclouu)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/eYFEUEq3)
 
-I'm interested in **full-stack software development**, **emulation**, **graphics programming** and exploring how things actually works.
+I'm interested in **full-stack software development**, **systems and low-level code development**, **graphics programming** and exploring how things actually works.
 
 <a href="#"><img alt="separator" height="1px" width="100%" src="https://wallpapers.com/images/hd/violet-pink-gradient-color-palette-dfw9va4jo1i2m507.jpg" /></a>
 

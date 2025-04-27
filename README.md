@@ -6,7 +6,7 @@
 
 I'm interested in **systems and low-level code development**, **graphics programming** and exploring how things actually works.
 > [!NOTE]
-> I also do **web development** acting as **full-stack** for freelance gigs to sustain my side projects 😅
+> I also do **web development** acting as **full-stack** for freelance gigs to sustain my side projects
 
 <a href="#"><img alt="separator" height="1px" width="100%" src="https://wallpapers.com/images/hd/violet-pink-gradient-color-palette-dfw9va4jo1i2m507.jpg" /></a>
 

@@ -8,7 +8,7 @@ I'm interested in **systems and low-level code development**, **graphics program
 > [!NOTE]
 > I also do **web development**, acting as **full-stack developer** for local business industries!
 
-<a href="#"><img alt="separator" height="1px" width="100%" src="https://wallpapers.com/images/hd/violet-pink-gradient-color-palette-dfw9va4jo1i2m507.jpg" /></a>
+<a href="#"><img alt="separator" height="0" width="100%" src="https://wallpapers.com/images/hd/violet-pink-gradient-color-palette-dfw9va4jo1i2m507.jpg" /></a>
 
 **Stacks**
 
@@ -18,7 +18,7 @@ I'm interested in **systems and low-level code development**, **graphics program
 
 [![tools](https://skillicons.dev/icons?i=neovim,androidstudio,vscode,visualstudio,postman&perline=5)](https://skillicons.dev)
 
-<a href="#"><img alt="separator" height="1px" width="100%" src="https://wallpapers.com/images/hd/violet-pink-gradient-color-palette-dfw9va4jo1i2m507.jpg" /></a>
+<a href="#"><img alt="separator" height="0" width="100%" src="https://wallpapers.com/images/hd/violet-pink-gradient-color-palette-dfw9va4jo1i2m507.jpg" /></a>
 
 **Other Stats**
 
